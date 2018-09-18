@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'firebase-tools-web';
+  title = 'firebase-tools-web by FAndrade Tec Info';
 }
